@@ -1,0 +1,14 @@
+{
+  "name": "unstyler-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unstyle.js",
+  "scripts": {
+    "start": "nodemon unstyle.js"
+  },
+  "author": "davide@weble",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
